@@ -19,6 +19,12 @@ set(HEADERS
 # テクスチャファイルなど
 set(TEXTURE_FILES
     "dot.raw"
+    "room2nx.raw"
+    "room2ny.raw"
+    "room2nz.raw"
+    "room2px.raw"
+    "room2py.raw"
+    "room2pz.raw"
 )
 
 if(APPLE)
